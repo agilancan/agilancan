@@ -27,6 +27,8 @@
 
 #
 
+---
+
 ## 🧠 AI & Machine Learning Projects
 - 🔒 **SafeRoomAI** – AI-powered security platform with motion detection, pose tracking, and action recognition for workplace monitoring  
   _YOLOv8, GRU, OpenCV, FastAPI, React, S3, RDS_  
