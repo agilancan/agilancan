@@ -57,93 +57,82 @@
 
 ---
 
-## 🧠 AI & Machine Learning Projects
+## 🔍 ML & Data Science Projects
 
-- 🔒 **SafeRoomAI** – AI-powered security platform with motion detection, pose tracking, and action recognition for workplace monitoring  
-  _YOLOv8, GRU, OpenCV, FastAPI, React, S3, RDS_  
-  [🔗 View project](#)
-
-- 🤝 **Doohickey.ai** – Peer-to-peer rental marketplace for items, services, and spaces. I led product design, UX, business planning, and helped with React frontend development.  
-  _React Native, Express, MongoDB, custom AI vision features_  
-  [🔗 View project](https://github.com/agilancan/doohickey-showcase)  
-  [🎬 Product video](https://www.youtube.com/watch?v=ZfO_OgOy0gA)
-
-- 🌿 **Leaf Disease Classifier** – CNN model trained from scratch to detect diseased vs. healthy leaves  
-  _TensorFlow, Keras, data augmentation_  
-  [🔗 View project](#)
-
-- 📈 **Stock News Analyzer** – NLP + Yahoo Finance API to parse news and predict stock signals  
-  _SpaCy, Sentiment Analysis, pandas, yfinance_  
-  [🔗 View project](#)
+### 📊 Bank Marketing Classifier with SVM & Random Forest  
+**Repo:** [Bank-Marketing-Classifier-SVM-RF-Showcase](https://github.com/agilancan/Bank-Marketing-Classifier-SVM-RF-Showcase)  
+Built and evaluated classification models using SVM and Random Forest on UCI Bank Marketing data. Includes hyperparameter tuning, metrics visualization, and business interpretation.
 
 ---
 
-## ⚙️ MLOps & Deployment
-
-- 🚀 **MLOps Template** – FastAPI backend + S3 for file storage + RDS PostgreSQL integration with secure AWS best practices  
-  _Docker, Boto3, SQLAlchemy, .env setup_  
-  [🔗 View project](#)
-
-- 📊 **MLFlow Pipeline** – ML pipeline with versioning, model tracking, and hyperparameter tuning using MLflow  
-  _XGBoost, sklearn, pandas, mlflow_  
-  [🔗 View project](#)
+### ❤️ Logistic Regression Heart Risk Model  
+**Repo:** [Logistic-Regression-Heart-Risk-Showcase](https://github.com/agilancan/Logistic-Regression-Heart-Risk-Showcase)  
+Created a binary classifier to assess heart disease risk. Demonstrates foundational model building, evaluation metrics, and healthcare domain application.
 
 ---
 
-## 📊 Data Science & Analytics
-
-- 🌍 **Air Quality Forecasting** – Predicting AQI using weather, traffic, and city-level pollution datasets  
-  _scikit-learn, regression models, matplotlib_  
-  [🔗 View project](#)
-
-- 💼 **Dell Strategy Report** – Business ecosystem analysis using tools like SWOT and Porter’s Five Forces  
-  _Data storytelling, industry research, APA citations_  
-  [🔗 View project](#)
-
-- 📊 **Tableau Dashboards** – Interactive dashboards on COVID trends, business KPIs, and market insights  
-  _Tableau Public, Excel, storytelling_  
-  [🔗 View dashboards](#)
+### ⛽ Linear Regression Fuel Efficiency Estimator  
+**Repo:** [Linear-Regression-Fuel-Efficiency-Showcase](https://github.com/agilancan/Linear-Regression-Fuel-Efficiency-Showcase)  
+Developed a regression model to predict MPG based on vehicle attributes. Includes data prep, feature engineering, and visualization.
 
 ---
 
-## 🧪 ML Assignments & Experiments
+## 🧱 MLOps, API & Deployment Projects
 
-- 🤖 **ML Classifier Demos** – Logistic Regression, SVC, XGBoost, confusion matrices, and ROC curves  
-  _scikit-learn, Jupyter Notebooks_  
-  [🔗 View repo](#)
-
-- 🧠 **Deep Learning Experiments** – CNNs for image classification, early stopping, dropout tuning  
-  _Keras, matplotlib, numpy_  
-  [🔗 View repo](#)
-
-- 🧬 **Hugging Face NLP Pipelines** – Summarization, sentiment analysis, RAG QA using transformers  
-  _transformers, tokenizers, RAG_  
-  [🔗 View repo](#)
+### 🫀 Cardiovascular Risk Predictor (REST API)  
+**Repo:** [CVD-Predictor-RESTful-Deployment-Showcase](https://github.com/agilancan/CVD-Predictor-RESTful-Deployment-Showcase)  
+Production-ready Flask API that serves a trained CVD prediction model. Includes Docker setup, API testing, and RESTful endpoint design.
 
 ---
 
-## 🖼️ Computer Vision
-
-- 🧍 **Fall Detection with YOLOv8 + GRU** – Real-time action recognition using pose estimation and sequential modeling  
-  _YOLOv8, Mediapipe, GRU, OpenCV_  
-  [🔗 View project](#)
-
-- 🎯 **Multi-Object Tracker** – Object detection and tracking using OpenCV on live video  
-  _OpenCV, centroid tracking, Python_  
-  [🔗 View project](#)
+### 📝 Hugging Face Transformers Summarizer App  
+**Repo:** [HuggingFace-Transformers-Summarizer-App-Showcase](https://github.com/agilancan/HuggingFace-Transformers-Summarizer-App-Showcase)  
+Built a text summarization tool using Hugging Face Transformers and Gradio. Showcases API integration, model inference pipelines, and UI deployment.
 
 ---
 
-## 🌐 Web Development
+## 🧠 LLM, Agentic AI & RAG Projects
 
-- 🧑‍💻 **Personal Portfolio Website** – Responsive React + Tailwind site with project showcase  
-  _React, Tailwind CSS, Framer Motion_  
-  [🔗 View website](https://agilan.io)
+### 📚 Multi-Source RAG Pipelines with LangChain  
+**Repo:** [Langchain-Multisource-RAG-Pipelines-Showcase](https://github.com/agilancan/Langchain-Multisource-RAG-Pipelines-Showcase)  
+Designed RAG pipelines using LangChain to synthesize context from PDFs, websites, and CSVs. Highlights multi-agent design, chaining logic, and prompt engineering.
 
-- 📊 **HR Analytics Dashboard** – Frontend dashboard visualizing workplace security and activity data  
-  _React, Chart.js, shadcn/ui_  
-  [🔗 View repo](#)
+---
 
-- 🔧 **FastAPI Backend Starter** – REST API with user auth, JWT, and CRUD operations  
-  _FastAPI, PostgreSQL, OAuth2_  
-  [🔗 View project](#)
+### 🤖 Agentic AI Framework Comparative Study  
+**Repo:** [AgenticAI-ComparativeStudy](https://github.com/agilancan/AgenticAI-ComparativeStudy)  
+Benchmarked LangGraph, N8N, and CrewAI for building agent-based workflows. Explores use cases, orchestration patterns, and agent role assignment.
+
+---
+
+### 🛡️ SafeRoomAI – Surveillance Intelligence Platform  
+**Repo:** [SafeRoomAI-Showcase](https://github.com/agilancan/SafeRoomAI-Showcase)  
+Capstone project using **YOLOv8**, **pose estimation**, and **GRU** models for live behavior analysis. Includes motion detection, anomaly classification, AWS-based data infrastructure, and interactive dashboards.
+
+---
+
+## 🌿 Climate & Social Good Projects
+
+### 🌎 GreenEarthConnect – Environmental Awareness App  
+**Repo:** [GreenEarthConnect-Showcase](https://github.com/agilancan/GreenEarthConnect-Showcase)  
+Created a fullstack dashboard for real-time air quality and traffic-based emissions using public APIs. Combines climate data pipelines with educational UX.
+
+---
+
+## 🎨 UX, Fullstack & Startup Projects
+
+### 🚢 ShipJumper – Peer-to-Peer Rental Platform  
+**Repo:** [ShipJumper-Showcase](https://github.com/agilancan/ShipJumper-Showcase)  
+A full-featured rental marketplace built with React and Firebase. Includes user auth, listings, search, and booking workflows.
+
+---
+
+### 🎮 HappyFunTime – Multiplayer Social Game  
+**Repo:** [HappyFunTime-Showcase](https://github.com/agilancan/HappyFunTime-Showcase)  
+A collaborative real-time game that demonstrates frontend/backend sync, WebSocket logic, and interactive UI.
+
+---
+
+### 📱 Doohickey – AI-Enhanced Group Rentals Startup  
+**Repo:** [Doohickey-Showcase](https://github.com/agilancan/Doohickey-Showcase)  
+Original startup concept. Led product strategy, UX, branding, and frontend development. Features AI-driven listings, team rental coordination, and item tracking.
