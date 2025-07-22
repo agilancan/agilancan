@@ -21,21 +21,29 @@
 <img align="left" alt="CSS" width="25px" style="padding-right:10px;" src="assets/3ff54c1ccf2ac48e954780808f3c6072.png" />
 <br><br>
 
-#### ⚙️ Frameworks & Libraries  
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-<img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
-<img align="left" alt="YOLO" width="30px" style="padding-right:10px;" src="https://github.com/ultralytics/assets/raw/main/logo/logo.png" />
-<img align="left" alt="MLflow" width="30px" style="padding-right:10px;" src="https://mlflow.org/images/MLflow-logo-final-black.png" />
-<img align="left" alt="Airflow" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/AirflowLogo.png" />
-<img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-<img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://matplotlib.org/_static/images/logo2.svg" />
-<br><br><br>
+### 🔧 Frameworks & Libraries
+
+**🧠 Machine Learning & AI:**  
+🟠 `scikit-learn`, 🔴 `PyTorch`, 🟡 `XGBoost`, 🟢 `LightGBM`, 🟣 `YOLOv8`, 😊 `Hugging Face Transformers`, 📸 `OpenCV`, 🔗 `LangChain`, 🎥 `MediaPipe`
+
+**📚 NLP:**  
+🧠 `transformers`, 🔤 `spaCy`, 📚 `nltk`, 🧩 `tokenizers`
+
+**🌐 Web & APIs:**  
+⚗️ `Flask`, 🐍 `FastAPI`, 🟦 `Gradio`, 🔗 `Requests`
+
+**🧮 Data Processing:**  
+📊 `Pandas`, 🔢 `NumPy`, 🧬 `SQLAlchemy`, 📄 `PyYAML`, 🌐 `BeautifulSoup`, 🗃️ `csv`, 🔣 `json`
+
+**📊 Visualization & Dashboards:**  
+📈 `Matplotlib`, 🎨 `Seaborn`, 🌍 `Plotly`, 🖥️ `Streamlit`
+
+**🎨 Frontend/UI:**  
+⚛️ `React.js`, 🎨 `Tailwind CSS`, 🧊 `Gradio UI`, 🔥 `Firebase UI`
+
+**🤖 Agentic AI / Workflow Orchestration:**  
+🧠 `LangChain`, 👥 `CrewAI`, 🔄 `N8N`, 🕸️ `LangGraph`
+
 
 #### ☁️ Cloud & DevOps  
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
