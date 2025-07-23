@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Agilan Sivakumaran
 
 🎓 AI Student @ Durham College  
-🚀 Aspiring AI/ML Engineer | 🤖 MLOps Enthusiast | 💻 Full-Stack Developer  
+🚀 AI/ML Engineer | 🤖 MLOps Enthusiast | 💻 Full-Stack Developer  
 📍 Based in Canada | Building real-world AI & data solutions  
 🌐 [agilan.io](https://agilan.io) | [GitHub](https://github.com/agilancan) | [LinkedIn](https://www.linkedin.com/in/agilan-sivakumaran/)
 
