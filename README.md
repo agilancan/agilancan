@@ -24,7 +24,7 @@
 ### 🔧 Frameworks & Libraries
 
 **🧠 Machine Learning & AI:**  
-🟠 `scikit-learn`, <img alt="Python" width="30" height="30" style="vertical-align: text-bottom; padding-right:6px;" src="assets/clipart4769276.png" /> `PyTorch`, 🟡 `XGBoost`, 🟢 `LightGBM`, 🟣 `YOLOv8`, 😊 `Hugging Face Transformers`, 📸 `OpenCV`, 🔗 `LangChain`, 🎥 `MediaPipe`
+<img alt="Python" width="30" height="30" style="vertical-align: text-bottom; padding-right:6px;" src="assets/4dbe55349370967b11ed785ed7ae9e0f.png" /> `scikit-learn`, <img alt="Python" width="30" height="30" style="vertical-align: text-bottom; padding-right:6px;" src="assets/clipart4769276.png" /> `PyTorch`, 🟡 `XGBoost`, 🟢 `LightGBM`, 🟣 `YOLOv8`, 😊 `Hugging Face Transformers`, 📸 `OpenCV`, 🔗 `LangChain`, 🎥 `MediaPipe`
 
 **📚 NLP:**  
 🧠 `transformers`, 🔤 `spaCy`, 📚 `nltk`, 🧩 `tokenizers`
