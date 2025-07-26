@@ -29,17 +29,52 @@
 <h3>🧠 Machine Learning & AI:</h3>
 
 <!-- Icons + Labels Inline with Better Alignment -->
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px; font-size: 18px; line-height: 30px;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px; font-size: 20px; line-height: 32px;">
 
-  <span><img src="assets/4dbe55349370967b11ed785ed7ae9e0f.png" width="30" style="vertical-align: middle; margin-right: 6px;" />scikit-learn</span>
-  <span><img src="assets/clipart4769276.png" width="30" style="vertical-align: middle; margin-right: 6px;" />PyTorch</span>
-  <span><img src="assets/pngaaa.com-9075823.png" width="30" style="vertical-align: middle; margin-right: 6px;" />XGBoost</span>
-  <span><img src="assets/lightgbm-logo-177B8D9AAD-seeklogo.com.png" width="30" style="vertical-align: middle; margin-right: 6px;" />LightGBM</span>
-  <span><img src="assets/Ultralytics_YOLO_Logomark_Original.png" width="30" style="vertical-align: middle; margin-right: 6px;" />YOLOv8</span>
-  <span><img src="assets/pngwing.com (2).png" width="30" style="vertical-align: middle; margin-right: 6px;" />Hugging Face Transformers</span>
-  <span><img src="assets/Daco_384674.png" width="30" style="vertical-align: middle; margin-right: 6px;" />OpenCV</span>
-  <span><img src="assets/langchain.png" width="30" style="vertical-align: middle; margin-right: 6px;" />LangChain</span>
-  <span><img src="assets/mediapipe_small.png" width="30" style="vertical-align: middle; margin-right: 6px;" />MediaPipe</span>
+  <span style="display: flex; align-items: center; padding: 4px 8px;">
+    <img src="assets/4dbe55349370967b11ed785ed7ae9e0f.png" width="30" style="margin-right: 8px;" />
+    scikit-learn
+  </span>
+
+  <span style="display: flex; align-items: center; padding: 4px 8px;">
+    <img src="assets/clipart4769276.png" width="30" style="margin-right: 8px;" />
+    PyTorch
+  </span>
+
+  <span style="display: flex; align-items: center; padding: 4px 8px;">
+    <img src="assets/pngaaa.com-9075823.png" width="30" style="margin-right: 8px;" />
+    XGBoost
+  </span>
+
+  <span style="display: flex; align-items: center; padding: 4px 8px;">
+    <img src="assets/lightgbm-logo-177B8D9AAD-seeklogo.com.png" width="30" style="margin-right: 8px;" />
+    LightGBM
+  </span>
+
+  <span style="display: flex; align-items: center; padding: 4px 8px;">
+    <img src="assets/Ultralytics_YOLO_Logomark_Original.png" width="30" style="margin-right: 8px;" />
+    YOLOv8
+  </span>
+
+  <span style="display: flex; align-items: center; padding: 4px 8px;">
+    <img src="assets/pngwing.com (2).png" width="30" style="margin-right: 8px;" />
+    Hugging Face Transformers
+  </span>
+
+  <span style="display: flex; align-items: center; padding: 4px 8px;">
+    <img src="assets/Daco_384674.png" width="30" style="margin-right: 8px;" />
+    OpenCV
+  </span>
+
+  <span style="display: flex; align-items: center; padding: 4px 8px;">
+    <img src="assets/langchain.png" width="30" style="margin-right: 8px;" />
+    LangChain
+  </span>
+
+  <span style="display: flex; align-items: center; padding: 4px 8px;">
+    <img src="assets/mediapipe_small.png" width="30" style="margin-right: 8px;" />
+    MediaPipe
+  </span>
 
 </div>
 
