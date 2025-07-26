@@ -10,15 +10,15 @@
 ### 🧰 Languages and Tools
 
 #### 💬 Programming Languages  
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="assets/imgbin_0b849c72f38362fe12072a4916660013.png" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="assets/imgbin_51fd37208a8c9cfd835f5fb071888f83.png" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="assets/116b2031504512d0ae7733f6d4a830f8.png" />
-<img align="left" alt="SQL" width="45px" style="padding-right:10px;" src="assets/Daco_2563210.png" />
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="assets/pngegg (3).png" />
-<img align="left" alt="CSS" width="25px" style="padding-right:10px;" src="assets/3ff54c1ccf2ac48e954780808f3c6072.png" />
+<img align="left" alt="Python" width="30" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="JavaScript" width="30" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="C++" width="30" height="30" style="padding-right:10px;" src="assets/imgbin_0b849c72f38362fe12072a4916660013.png" />
+<img align="left" alt="C#" width="30" height="30" style="padding-right:10px;" src="assets/imgbin_51fd37208a8c9cfd835f5fb071888f83.png" />
+<img align="left" alt="Java" width="30" height="30" style="padding-right:10px;" src="assets/116b2031504512d0ae7733f6d4a830f8.png" />
+<img align="left" alt="SQL" width="30" height="30" style="padding-right:10px;" src="assets/Daco_2563210.png" />
+<img align="left" alt="HTML" width="30" height="30" style="padding-right:10px;" src="assets/pngegg (3).png" />
+<img align="left" alt="CSS" width="30" height="30" style="padding-right:10px;" src="assets/3ff54c1ccf2ac48e954780808f3c6072.png" />
 <br><br>
 
 ### 🔧 Frameworks & Libraries
