@@ -23,10 +23,17 @@
 
 ### 🔧 Frameworks & Libraries
 
-<span style="font-size: 16px;">
-  <strong>🧠 Machine Learning & AI:</strong><br>
-
-  <img src="assets/4dbe55349370967b11ed785ed7ae9e0f.png" alt="scikit-learn" width="24" height="24" style="vertical-align: text-bottom; margin-right: 6px;" />`scikit-learn`, <img src="assets/clipart4769276.png" alt="PyTorch" width="24" height="24" style="vertical-align: text-bottom; margin-right: 6px;" />`PyTorch`, <img src="assets/pngaaa.com-9075823.png" alt="XGBoost" width="24" height="24" style="vertical-align: text-bottom; margin-right: 6px;" />`XGBoost`, <img src="assets/lightgbm-logo-177B8D9AAD-seeklogo.com.png" alt="LightGBM" width="24" height="24" style="vertical-align: text-bottom; margin-right: 6px;" />`LightGBM`, <img src="assets/Ultralytics_YOLO_Logomark_Original.png" alt="YOLOv8" width="24" height="24" style="vertical-align: text-bottom; margin-right: 6px;" />`YOLOv8`, <img src="assets/pngwing.com (2).png" alt="Hugging Face" width="24" height="24" style="vertical-align: text-bottom; margin-right: 6px;" />`Hugging Face`, <img src="assets/Daco_384674.png" alt="OpenCV" width="24" height="24" style="vertical-align: text-bottom; margin-right: 6px;" />`OpenCV`, <img src="assets/langchain.png" alt="LangChain" width="24" height="24" style="vertical-align: text-bottom; margin-right: 6px;" />`LangChain`, <img src="assets/mediapipe_small.png" alt="MediaPipe" width="24" height="24" style="vertical-align: text-bottom; margin-right: 6px;" />`MediaPipe`
+<span style="font-size: 18px;">
+  <strong>🧠 Machine Learning & AI:</strong>
+  <img src="assets/4dbe55349370967b11ed785ed7ae9e0f.png" alt="scikit-learn" width="30" style="vertical-align: middle; margin: 0 8px;" />scikit-learn,
+  <img src="assets/clipart4769276.png" alt="PyTorch" width="30" style="vertical-align: middle; margin: 0 8px;" />PyTorch,
+  <img src="assets/pngaaa.com-9075823.png" alt="XGBoost" width="30" style="vertical-align: middle; margin: 0 8px;" />XGBoost,
+  <img src="assets/lightgbm-logo-177B8D9AAD-seeklogo.com.png" alt="LightGBM" width="30" style="vertical-align: middle; margin: 0 8px;" />LightGBM,
+  <img src="assets/Ultralytics_YOLO_Logomark_Original.png" alt="YOLOv8" width="30" style="vertical-align: middle; margin: 0 8px;" />YOLOv8,
+  <img src="assets/pngwing.com (2).png" alt="Hugging Face" width="30" style="vertical-align: middle; margin: 0 8px;" />Hugging Face Transformers,
+  <img src="assets/Daco_384674.png" alt="OpenCV" width="30" style="vertical-align: middle; margin: 0 8px;" />OpenCV,
+  <img src="assets/langchain.png" alt="LangChain" width="30" style="vertical-align: middle; margin: 0 8px;" />LangChain,
+  <img src="assets/mediapipe_small.png" alt="MediaPipe" width="30" style="vertical-align: middle; margin: 0 8px;" />MediaPipe
 </span>
 
 
