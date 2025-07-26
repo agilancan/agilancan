@@ -21,6 +21,8 @@
 <img align="left" alt="CSS" width="30" height="30" style="padding-right:10px;" src="assets/3ff54c1ccf2ac48e954780808f3c6072.png" />
 <br><br>
 
+---
+
 ### 🔧 Frameworks & Libraries
 
 <span style="font-size: 18px;">
@@ -36,6 +38,7 @@
   <img src="assets/mediapipe_small.png" alt="MediaPipe" width="30" style="vertical-align: middle; margin: 0 8px;" />MediaPipe
 </span>
 
+---
 
 **📚 NLP:**  
 🧠 `transformers`, 🔤 `spaCy`, 📚 `nltk`, 🧩 `tokenizers`
