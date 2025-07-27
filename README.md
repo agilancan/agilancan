@@ -64,23 +64,23 @@
 
 
 #### ☁️ Cloud & DevOps  
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="assets/pngaaa.com-3822384.png" />
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Snowflake" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/S/snowflake-logo-CE26EDDB1B-seeklogo.com.png" />
-<img align="left" alt="Databricks" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/55258172?s=200&v=4" />
-<img align="left" alt="dbt" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/36362133?s=200&v=4" />
+<img align="left" alt="Snowflake" width="30px" style="padding-right:10px;" src="assets/PikPng.com_periscope-png_1245406.png" />
+<img align="left" alt="Databricks" width="30px" style="padding-right:10px;" src="assets/pngwing.com (3).png" />
+<img align="left" alt="Airflow" width="30px" style="padding-right:10px;" src="assets/Daco_5188627.png" />
 <br><br>
 
 #### 📊 Analytics & Visualization  
 <img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
-<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg" />
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="assets/clipart2113829.png" />
 <img align="left" alt="Google Analytics" width="30px" style="padding-right:10px;" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" />
 <br><br>
 
 #### 🧰 Tools & Environments  
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="assets/github-pages-logo-repository-fork-github-86eddab19cbc3ae293ada0fe0fb9e27d.png" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br><br>
