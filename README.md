@@ -73,7 +73,7 @@
 <br><br>
 
 #### 📊 Analytics & Visualization  
-<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
+<img align="left" alt="Tableau" width="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="assets/clipart2113829.png" />
 <img align="left" alt="Google Analytics" width="30px" style="padding-right:10px;" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" />
 <br><br>
