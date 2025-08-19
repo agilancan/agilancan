@@ -152,7 +152,7 @@ Created a fullstack dashboard for real-time air quality and traffic-based emissi
 
 ### 🚢 ShipJumper – Peer-to-Peer Rental Platform  
 **Repo:** [ShipJumper-Showcase](https://github.com/agilancan/ShipJumper-Showcase)  
-A full-featured rental marketplace built with React and Firebase. Includes user auth, listings, search, and booking workflows.
+A fast-paced, physics-based mobile platformer built with Unity. Features multi-biome worlds, procedural hazards, scoring loops, and cross-platform deployment on iOS & Android.
 
 ---
 
@@ -164,4 +164,4 @@ A collaborative real-time game that demonstrates frontend/backend sync, WebSocke
 
 ### 📱 Doohickey – AI-Enhanced Group Rentals Startup  
 **Repo:** [Doohickey-Showcase](https://github.com/agilancan/Doohickey-Showcase)  
-Original startup concept. Led product strategy, UX, branding, and frontend development. Features AI-driven listings, team rental coordination, and item tracking.
+Led product strategy, UX, branding, and frontend development. Features AI-driven listings, team rental coordination, and item tracking.
