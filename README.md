@@ -150,7 +150,7 @@ Created a fullstack dashboard for real-time air quality and traffic-based emissi
 
 ## 🎨 UX, Fullstack & Startup Projects
 
-### 🚢 ShipJumper – Peer-to-Peer Rental Platform  
+### 🚢 ShipJumper – Physics-Based Mobile Platformer  
 **Repo:** [ShipJumper-Showcase](https://github.com/agilancan/ShipJumper-Showcase)  
 A fast-paced, physics-based mobile platformer built with Unity. Features multi-biome worlds, procedural hazards, scoring loops, and cross-platform deployment on iOS & Android.
 
