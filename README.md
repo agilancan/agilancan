@@ -2,7 +2,7 @@
   
 🚀 AI/ML Engineer | 🤖 MLOps Enthusiast | 💻 Full-Stack Developer  
 📍 Based in Canada | Building real-world AI & data solutions  
-🌐 [agilan.io](https://agilan.online) | [GitHub](https://github.com/agilancan) | [LinkedIn](https://www.linkedin.com/in/agilan-sivakumaran/)
+🌐 [agilan.online](https://agilan.online) | [GitHub](https://github.com/agilancan) | [LinkedIn](https://www.linkedin.com/in/agilan-sivakumaran/)
 
 ---
 
