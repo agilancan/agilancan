@@ -6,7 +6,83 @@
 
 ---
 
-### 🧰 Languages and Tools #### 💬 Programming Languages <img align="left" alt="Python" width="30" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img align="left" alt="JavaScript" width="30" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="left" alt="TypeScript" width="30" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="left" alt="C++" width="30" height="30" style="padding-right:10px;" src="assets/imgbin_0b849c72f38362fe12072a4916660013.png" /> <img align="left" alt="C#" width="30" height="30" style="padding-right:10px;" src="assets/imgbin_51fd37208a8c9cfd835f5fb071888f83.png" /> <img align="left" alt="Java" width="30" height="30" style="padding-right:10px;" src="assets/116b2031504512d0ae7733f6d4a830f8.png" /> <img align="left" alt="SQL" width="30" height="30" style="padding-right:10px;" src="assets/Daco_2563210.png" /> <img align="left" alt="HTML" width="30" height="30" style="padding-right:10px;" src="assets/pngegg (3).png" /> <img align="left" alt="CSS" width="30" height="30" style="padding-right:10px;" src="assets/3ff54c1ccf2ac48e954780808f3c6072.png" /> <br><br> --- ### 🔧 Frameworks & Libraries <!-- Section Heading --> <h3>🧠 Machine Learning & AI:</h3> <!-- Icons + Labels Inline with Better Alignment --> <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px; font-size: 18px; line-height: 30px;"> <span><img src="assets/4dbe55349370967b11ed785ed7ae9e0f.png" width="30" style="vertical-align: middle; margin-right: 6px;" />scikit-learn,</span> <span><img src="assets/clipart4769276.png" width="30" style="vertical-align: middle; margin-right: 6px;" />PyTorch,</span> <span><img src="assets/pngaaa.com-9075823.png" width="30" style="vertical-align: middle; margin-right: 6px;" />XGBoost,</span> <span><img src="assets/lightgbm-logo-177B8D9AAD-seeklogo.com.png" width="30" style="vertical-align: middle; margin-right: 6px;" />LightGBM,</span> <span><img src="assets/Ultralytics_YOLO_Logomark_Original.png" width="30" style="vertical-align: middle; margin-right: 6px;" />YOLOv8,</span> <span><img src="assets/pngwing.com (2).png" width="30" style="vertical-align: middle; margin-right: 6px;" />Hugging Face Transformers,</span> <span><img src="assets/Daco_384674.png" width="30" style="vertical-align: middle; margin-right: 6px;" />OpenCV,</span> <span><img src="assets/langchain.png" width="30" style="vertical-align: middle; margin-right: 6px;" />LangChain,</span> <span><img src="assets/mediapipe_small.png" width="30" style="vertical-align: middle; margin-right: 6px;" />MediaPipe</span> </div> --- **📚 NLP:** 🧠 transformers, 🔤 spaCy, 📚 nltk, 🧩 tokenizers **🌐 Web & APIs:** ⚗️ Flask, 🐍 FastAPI, 🟦 Gradio, 🔗 Requests **🧮 Data Processing:** 📊 Pandas, 🔢 NumPy, 🧬 SQLAlchemy, 📄 PyYAML, 🌐 BeautifulSoup, 🗃️ csv, 🔣 json **📊 Visualization & Dashboards:** 📈 Matplotlib, 🎨 Seaborn, 🌍 Plotly, 🖥️ Streamlit **🎨 Frontend/UI:** ⚛️ React.js, 🎨 Tailwind CSS, 🧊 Gradio UI, 🔥 Firebase UI **🤖 Agentic AI / Workflow Orchestration:** 🧠 LangChain, 👥 CrewAI, 🔄 N8N, 🕸️ LangGraph #### ☁️ Cloud & DevOps <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="assets/pngaaa.com-3822384.png" /> <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <img align="left" alt="Snowflake" width="30px" style="padding-right:10px;" src="assets/PikPng.com_periscope-png_1245406.png" /> <img align="left" alt="Databricks" width="30px" style="padding-right:10px;" src="assets/pngwing.com (3).png" /> <img align="left" alt="Airflow" width="30px" style="padding-right:10px;" src="assets/Daco_5188627.png" /> <br><br> #### 📊 Analytics & Visualization <img align="left" alt="Tableau" width="90px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" /> <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="assets/clipart2113829.png" /> <img align="left" alt="Google Analytics" width="30px" style="padding-right:10px;" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" /> <br><br> #### 🧰 Tools & Environments <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="assets/github-pages-logo-repository-fork-github-86eddab19cbc3ae293ada0fe0fb9e27d.png" /> <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <br><br>
+### 🧰 Languages and Tools
+
+#### 💬 Programming Languages  
+<img align="left" alt="Python" width="30" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="JavaScript" width="30" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="C++" width="30" height="30" style="padding-right:10px;" src="assets/imgbin_0b849c72f38362fe12072a4916660013.png" />
+<img align="left" alt="C#" width="30" height="30" style="padding-right:10px;" src="assets/imgbin_51fd37208a8c9cfd835f5fb071888f83.png" />
+<img align="left" alt="Java" width="30" height="30" style="padding-right:10px;" src="assets/116b2031504512d0ae7733f6d4a830f8.png" />
+<img align="left" alt="SQL" width="30" height="30" style="padding-right:10px;" src="assets/Daco_2563210.png" />
+<img align="left" alt="HTML" width="30" height="30" style="padding-right:10px;" src="assets/pngegg (3).png" />
+<img align="left" alt="CSS" width="30" height="30" style="padding-right:10px;" src="assets/3ff54c1ccf2ac48e954780808f3c6072.png" />
+<br><br>
+
+---
+
+### 🔧 Frameworks & Libraries
+
+<!-- Section Heading -->
+<h3>🧠 Machine Learning & AI:</h3>
+
+<!-- Icons + Labels Inline with Better Alignment -->
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px; font-size: 18px; line-height: 30px;">
+  <span><img src="assets/4dbe55349370967b11ed785ed7ae9e0f.png" width="30" style="vertical-align: middle; margin-right: 6px;" />scikit-learn,</span>   
+  <span><img src="assets/clipart4769276.png" width="30" style="vertical-align: middle; margin-right: 6px;" />PyTorch,</span>   
+  <span><img src="assets/pngaaa.com-9075823.png" width="30" style="vertical-align: middle; margin-right: 6px;" />XGBoost,</span>   
+  <span><img src="assets/lightgbm-logo-177B8D9AAD-seeklogo.com.png" width="30" style="vertical-align: middle; margin-right: 6px;" />LightGBM,</span>   
+  <span><img src="assets/Ultralytics_YOLO_Logomark_Original.png" width="30" style="vertical-align: middle; margin-right: 6px;" />YOLOv8,</span>   
+  <span><img src="assets/pngwing.com (2).png" width="30" style="vertical-align: middle; margin-right: 6px;" />Hugging Face Transformers,</span>   
+  <span><img src="assets/Daco_384674.png" width="30" style="vertical-align: middle; margin-right: 6px;" />OpenCV,</span>   
+  <span><img src="assets/langchain.png" width="30" style="vertical-align: middle; margin-right: 6px;" />LangChain,</span>   
+  <span><img src="assets/mediapipe_small.png" width="30" style="vertical-align: middle; margin-right: 6px;" />MediaPipe</span>
+</div>
+
+
+---
+
+**📚 NLP:**  
+🧠 `transformers`, 🔤 `spaCy`, 📚 `nltk`, 🧩 `tokenizers`
+
+**🌐 Web & APIs:**  
+⚗️ `Flask`, 🐍 `FastAPI`, 🟦 `Gradio`, 🔗 `Requests`
+
+**🧮 Data Processing:**  
+📊 `Pandas`, 🔢 `NumPy`, 🧬 `SQLAlchemy`, 📄 `PyYAML`, 🌐 `BeautifulSoup`, 🗃️ `csv`, 🔣 `json`
+
+**📊 Visualization & Dashboards:**  
+📈 `Matplotlib`, 🎨 `Seaborn`, 🌍 `Plotly`, 🖥️ `Streamlit`
+
+**🎨 Frontend/UI:**  
+⚛️ `React.js`, 🎨 `Tailwind CSS`, 🧊 `Gradio UI`, 🔥 `Firebase UI`
+
+**🤖 Agentic AI / Workflow Orchestration:**  
+🧠 `LangChain`, 👥 `CrewAI`, 🔄 `N8N`, 🕸️ `LangGraph`
+
+
+#### ☁️ Cloud & DevOps  
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="assets/pngaaa.com-3822384.png" />
+<img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Snowflake" width="30px" style="padding-right:10px;" src="assets/PikPng.com_periscope-png_1245406.png" />
+<img align="left" alt="Databricks" width="30px" style="padding-right:10px;" src="assets/pngwing.com (3).png" />
+<img align="left" alt="Airflow" width="30px" style="padding-right:10px;" src="assets/Daco_5188627.png" />
+<br><br>
+
+#### 📊 Analytics & Visualization  
+<img align="left" alt="Tableau" width="90px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="assets/clipart2113829.png" />
+<img align="left" alt="Google Analytics" width="30px" style="padding-right:10px;" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" />
+<br><br>
+
+#### 🧰 Tools & Environments  
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="assets/github-pages-logo-repository-fork-github-86eddab19cbc3ae293ada0fe0fb9e27d.png" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br><br>
 
 ---
 
