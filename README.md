@@ -4,7 +4,7 @@
 📍 Based in Canada | Building real-world AI & data solutions  
 🌐 [agilan.online](https://agilan.online) | [GitHub](https://github.com/agilancan) | [LinkedIn](https://www.linkedin.com/in/agilan-sivakumaran/)
 
-🧠 AI / Data Science | ML • RAG • APIs • Applied Systems
+🧠 AI / Data Science | ML • RAG • APIs • Applied Systems • SQL
 ---
 
 ### 🧰 Languages and Tools
