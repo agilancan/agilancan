@@ -103,6 +103,20 @@ Developed a regression model to predict MPG based on vehicle attributes. Include
 
 ---
 
+## 📊 Data Visualization & Analytics Projects
+
+### 🚗 Vehicle Emissions & Fuel Consumption Analysis
+Interactive Tableau dashboard analyzing Canadian vehicle fuel efficiency, CO₂ emissions, manufacturer trends, and environmental impact using Government of Canada open data (2015–2019).
+**Tech:** Tableau, Data Visualization, Dashboarding, Analytics, Statistical Analysis
+🔗 Repo: [Vehicle Emissions & Fuel Consumption Analysis](https://github.com/agilancan/vehicle-emissions-fuel-consumption-analysis)
+
+### 🏥 U.S. Health Factors Analysis Dashboard
+Interactive Tableau dashboard exploring relationships between health outcomes, demographics, geography, and socioeconomic indicators using Tableau sample healthcare datasets.
+**Tech:** Tableau, Dashboard Design, Data Storytelling, Analytics, Visualization
+🔗 Repo: [US Health Factors Dashboard](https://github.com/agilancan/us-health-outcomes-social-determinants-analysis)
+
+---
+
 ## 🧱 MLOps, API & Deployment Projects
 
 ### 🫀 Cardiovascular Risk Predictor (REST API)  
