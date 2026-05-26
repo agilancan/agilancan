@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Agilan Sivakumaran
 
-🚀 AI/ML Engineer | 🤖 MLOps Enthusiast | 💻 Full-Stack Developer  
+🚀 AI/ML Engineer | 🧠 Data Scientist | 💻 Full-Stack Developer  
 📍 Based in Canada | Building real-world AI & data solutions  
 🌐 [agilan.online](https://agilan.online) | [GitHub](https://github.com/agilancan) | [LinkedIn](https://www.linkedin.com/in/agilan-sivakumaran/)
 
-🧠 AI / Data Science | ML • RAG • APIs • Applied Systems • SQL
+🧠 AI • Data Science • Analytics • ML • RAG • APIs • Applied Systems • SQL
 ---
 
 ### 🧰 Languages and Tools
@@ -54,7 +54,7 @@
 📊 `Pandas`, 🔢 `NumPy`, 🧬 `SQLAlchemy`, 📄 `PyYAML`, 🌐 `BeautifulSoup`, 🗃️ `csv`, 🔣 `json`
 
 **📊 Visualization & Dashboards:**  
-📈 `Matplotlib`, 🎨 `Seaborn`, 🌍 `Plotly`, 🖥️ `Streamlit`
+📈 `Matplotlib`, 🎨 `Seaborn`, 🌍 `Plotly`, 🖥️ `Streamlit`, 📊 `Tableau`
 
 **🎨 Frontend/UI:**  
 ⚛️ `React.js`, 🎨 `Tailwind CSS`, 🧊 `Gradio UI`, 🔥 `Firebase UI`
